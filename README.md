@@ -40,7 +40,6 @@ Learning a new framework through documentation alone can be overwhelming. This p
 
 ## 📸 Screenshots
 
-*Screenshots will be added here once the application is deployed*
 <img width="1919" height="939" alt="image" src="https://github.com/user-attachments/assets/80f62bbd-dc59-4ecd-b67e-3c5e0fbbdf7c" />
 <img width="1919" height="934" alt="image" src="https://github.com/user-attachments/assets/8c83097a-887b-4777-9846-26cc9525429f" />
 <img width="1919" height="939" alt="image" src="https://github.com/user-attachments/assets/f35f7937-533c-40f7-baf0-886ce427a006" />

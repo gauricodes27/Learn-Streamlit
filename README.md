@@ -164,7 +164,7 @@ Please ensure your contributions:
 
 ## 📄 License
 
-This project is available for educational purposes. License details to be added.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
